@@ -18,7 +18,6 @@
 
 ## Run the code to install necessary libraries
 
-To setup the system for development on your local machine, please follow the instructions below:
 ```
             pip install youtube-dl moviepy
 ```
